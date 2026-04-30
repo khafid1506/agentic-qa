@@ -280,14 +280,51 @@ These projects are not demos. They are tools built to solve pain I have felt per
 
 ---
 
-## 📬 Connect
+Pour un repo GitHub (pas GitLab) orienté SDET + AI Agents, voici les réseaux pertinents à joindre, par ordre de priorité :
 
-| | |
-|---|---|
-| 📧 Email | khafid1506@gmail.com |
-| 💼 LinkedIn | [khalid-hafidmedheb](https://www.linkedin.com/in/khalid-hafidmedheb-40451aa8) |
-| 🐙 GitHub | [khafidmedheb](https://github.com/khafidmedheb) |
-| 📍 Location | Montgeron, Île-de-France — Full Remote FR/EU |
+---
+
+**🥇 Indispensables**
+
+**LinkedIn** — déjà dans ton README, c'est le plus important pour ta cible recruteurs/clients freelance. Chaque projet poussé = un post LinkedIn.
+
+**GitHub profile** — ton `github.com/khafidmedheb` lui-même est un réseau social tech. Soigne ton profil GitHub (photo, bio, épingle `agentic-qa` en featured repo).
+
+---
+
+**🥈 Très utiles pour ta cible tech**
+
+**X / Twitter** — la communauté AI Agents est très active là-bas. Partage des snippets, des résultats, des GIFs de tes agents en action. Hashtags : `#AIAgents` `#SDET` `#LangGraph` `#BuildInPublic`
+
+**Dev.to** — plateforme de blogging tech, forte SEO. Écris un article par projet, avec un lien vers ton repo. Audience naturellement technique.
+
+**Hashnode** — alternative à Dev.to, bien indexée Google, idéale pour construire une audience développeur.
+
+---
+
+**🥉 Bonus selon ta stratégie**
+
+**Discord** — rejoins les serveurs LangChain, Anthropic, AI Engineers. Partage tes projets dans les canaux `#show-and-tell`.
+
+**Hugging Face** — si tu publies des modèles ou des datasets liés à tes agents, ton profil HF peut pointer vers GitHub.
+
+**YouTube / Loom** — une démo vidéo de 2 minutes d'un agent en action vaut 10 README. Loom est le plus rapide.
+
+---
+
+**Dans ton README, la section Connect idéale :**
+
+## 📬 Connect
+|                |                                                |
+|----------------|------------------------------------------------|
+| 📧 Email       | khafid1506@gmail.com                           |
+| 💼 LinkedIn    | [khalid-hafidmedheb](https://linkedin.com/in/khalid-hafidmedheb-40451aa8) |
+| 🐙 GitHub      | [khafidmedheb](https://github.com/khafid1506)  |
+| 🐦 X / Twitter | [@khafidmedheb](https://x.com/khafidmedheb)    |
+| ✍️ Dev.to      | [khafidmedheb](https://dev.to/khafidmedheb)    |
+| ✍️ hashnode    | [khafidmedheb](https://hashnode.com/@khafidmedheb)                               |
+| 📍 Location    | Montgeron — Full Remote FR/EU                  |
+
 
 ---
 
